@@ -1,2 +1,8 @@
-# hello
-My first repository
+# Documentation du tuto GitHub
+
+#Initialisation du dépot
+
+````
+    bash 
+    git-init
+````
