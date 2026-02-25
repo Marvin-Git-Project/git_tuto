@@ -15,4 +15,7 @@
         git config --list
         git commit --> Penser un donner un nom à la sauvegarde
     git push origin main
+
+    git log  (voir les commit effecués, appuyer sur q pour quitter)
+    git show (info supplémentaires)
 ````
