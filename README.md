@@ -64,3 +64,20 @@
     git merge develop (on envoi les données de develop dans main)
     git push origin main
 */
+
+## REVUE - Validation (pull request)
+/*
+    Pour les bonnes pratiques, on ajoute les notions de revue de code,
+    Pour cela on créer une branche, faire des modifs, les envoyer sur le dépot distant.
+    Ensuite on créer un "pull request" pour demander une revue de code
+    
+    git checkout develop
+    git add.
+    git status
+    git commit -m "Explication du workflow de review"
+    git status
+    git push origin develop
+
+    Sur GITHUB voir "Compare and pull request"
+
+*/
